@@ -298,7 +298,13 @@ public class Inventory extends javax.swing.JFrame {
         btnConfiguracion.setText("Configuracion");
         btnConfiguracion.setBorder(null);
         btnConfiguracion.setFocusPainted(false);
+        btnConfiguracion.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btnConfiguracionActionPerformed(evt);
+            }
+        });
 
+        txtVendedor.setForeground(new java.awt.Color(15, 175, 81));
         txtVendedor.setText("Abarrotes Victor");
 
         javax.swing.GroupLayout NavigationLayout = new javax.swing.GroupLayout(Navigation);
@@ -1290,6 +1296,10 @@ public class Inventory extends javax.swing.JFrame {
         } catch (Exception e) {
         }
     }//GEN-LAST:event_btnPdfVentaActionPerformed
+
+    private void btnConfiguracionActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnConfiguracionActionPerformed
+        routes.setSelectedIndex(4);
+    }//GEN-LAST:event_btnConfiguracionActionPerformed
 
     private void limpiarTxtVenta(){
         txtCodigoVenta.setText("");
