@@ -1,2 +1,15 @@
-D:\Developer\Java\AbarrotesVictor\src\main\java\com\kazze\abarrotesvictor\Main.java
-D:\Developer\Java\AbarrotesVictor\src\main\java\com\kazze\abarrotesvictor\AbarrotesVictor.java
+D:\Developer\Java\AbarrotesVictor\src\main\java\Model\Producto.java
+D:\Developer\Java\AbarrotesVictor\src\main\java\Views\Inventory.java
+D:\Developer\Java\AbarrotesVictor\src\main\java\Model\ProductoDAO.java
+D:\Developer\Java\AbarrotesVictor\src\main\java\Model\AuthDAO.java
+D:\Developer\Java\AbarrotesVictor\src\main\java\Views\Login.java
+D:\Developer\Java\AbarrotesVictor\src\main\java\AbarrotesVictor\Main.java
+D:\Developer\Java\AbarrotesVictor\src\main\java\Model\Auth.java
+D:\Developer\Java\AbarrotesVictor\src\main\java\Model\Venta.java
+D:\Developer\Java\AbarrotesVictor\src\main\java\Model\Detalle.java
+D:\Developer\Java\AbarrotesVictor\src\main\java\Model\Proveedor.java
+D:\Developer\Java\AbarrotesVictor\src\main\java\Reports\Excel.java
+D:\Developer\Java\AbarrotesVictor\src\main\java\Model\ProveedorDAO.java
+D:\Developer\Java\AbarrotesVictor\src\main\java\Model\MySQLConnection.java
+D:\Developer\Java\AbarrotesVictor\src\main\java\Model\VentaDAO.java
+D:\Developer\Java\AbarrotesVictor\src\main\java\Model\Configuracion.java
